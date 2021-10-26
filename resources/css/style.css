@@ -1,0 +1,26 @@
+* {
+background-color: #1A9407;
+}
+
+h1 {
+font-size: 2.5rem;
+color: #AD4800;
+font-weight: 600;
+}
+
+h2 {
+font-size: 2rem;
+color: #16CCE0;
+text-decoration: underline;
+
+}
+
+a {
+background-color: blue;
+color: #6EFF00;
+text-decoration: none;
+padding: 20px;
+}
+
+
+}
